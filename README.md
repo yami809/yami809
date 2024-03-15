@@ -1,6 +1,6 @@
-# Halo semua! 
+# Hello There !
 
-👋 Hello there! I'm **Muhammad Reva Alief** , a passionate data analyst and Python programmer with a knack for turning data into insights.
+👋 I'm **Muhammad Reva Alief** , a passionate data analyst and Python programmer with a knack for turning data into insights.
 
 📊 As a data analyst, I specialize in extracting valuable insights from complex datasets, leveraging statistical analysis and data visualization techniques to drive informed decision-making.
 

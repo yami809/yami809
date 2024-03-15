@@ -2,13 +2,19 @@
 
 Perkenalkan nama saya **Muhammad Reva Alief Fathoni**.<br>
 
-Saya seorang **AI Engineer** di [Dicoding](https://www.dicoding.com/).<br>
+👋 Hello there! I'm Muhammad Reva Alief, a passionate data analyst and Python programmer with a knack for turning data into insights.
 
-Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).<br>
+📊 As a data analyst, I specialize in extracting valuable insights from complex datasets, leveraging statistical analysis and data visualization techniques to drive informed decision-making.
 
-Saya juga memiliki gelar Google Associate Android Developer sejak 2019.<br>
+💻 I'm proficient in Python programming, with experience in building data pipelines, performing data cleaning and preprocessing, and developing predictive models using libraries like pandas, NumPy, scikit-learn, and TensorFlow.
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin][(https://www.linkedin.com/in/muhammad-reva-alief-fathoni-0a007921a/) ku ya.
+🔍 On a quest to explore the depths of data, I continuously seek to refine my analytical skills and stay updated with the latest trends and technologies in data science and programming.
+
+🌟 Let's connect and collaborate on exciting projects that involve data analysis, machine learning, and software development. Reach out to me here or on LinkedIn!
+
+📫 Feel free connect with me on LinkedIn: [(https://www.linkedin.com/in/muhammad-reva-alief-fathoni-0a007921a/)].
+
+
 
 ### Github Statistic
 <p align="left">
